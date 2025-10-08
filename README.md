@@ -14,27 +14,27 @@
 <ul style="list-style:none; padding:0; margin:0;">
   <li style="display:flex; align-items:center; gap:10px; margin:6px 0;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X/Twitter" width="24" height="24">
-    <a href="https://x.com/frnndsoul" target="_blank" rel="noreferrer">@frnndsoul</a>
+    <a href="https://x.com/frnndsoul" target="_blank" rel="noreferrer"> @FrnndSoul</a>
   </li>
   <li style="display:flex; align-items:center; gap:10px; margin:6px 0;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="24" height="24">
-    <a href="https://www.linkedin.com/in/fernand-emil-saul-696066255/" target="_blank" rel="noreferrer">fernand-emil-saul-696066255</a>
+    <a href="https://www.linkedin.com/in/fernand-emil-saul-696066255/" target="_blank" rel="noreferrer"> @FrnndSoul</a>
   </li>
   <li style="display:flex; align-items:center; gap:10px; margin:6px 0;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="24" height="24">
-    <a href="https://stackoverflow.com/users/21456496/frnndsoul" target="_blank" rel="noreferrer">21456496 / frnndsoul</a>
+    <a href="https://stackoverflow.com/users/21456496/frnndsoul" target="_blank" rel="noreferrer"> ID: 21456496 / @FrnndSoul</a>
   </li>
   <li style="display:flex; align-items:center; gap:10px; margin:6px 0;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="24" height="24">
-    <a href="https://www.facebook.com/frnnd.emiru" target="_blank" rel="noreferrer">frnnd.emiru</a>
+    <a href="https://www.facebook.com/frnnd.emiru" target="_blank" rel="noreferrer"> @Frnnd.Emiru</a>
   </li>
   <li style="display:flex; align-items:center; gap:10px; margin:6px 0;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="24" height="24">
-    <a href="https://www.instagram.com/dontcall.saul/" target="_blank" rel="noreferrer">@dontcall.saul</a>
+    <a href="https://www.instagram.com/dontcall.saul/" target="_blank" rel="noreferrer"> @DontCall.Saul</a>
   </li>
   <li style="display:flex; align-items:center; gap:10px; margin:6px 0;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="24" height="24">
-    <a href="https://youtube.com/@FrnndSoul" target="_blank" rel="noreferrer">@FrnndSoul</a>
+    <a href="https://youtube.com/@FrnndSoul" target="_blank" rel="noreferrer"> @FrnndSoul</a>
   </li>
 </ul>
 
