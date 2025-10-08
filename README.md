@@ -1,13 +1,13 @@
-# 💫 About Me:
+# 💫 About Me
 <h1 align="center">
-  Hi 👋, I'm Saul, Fernand Emil
+  Hi 👋 I'm Fernand Emil Saul
 </h1> 
 <br> 
 <h3 align="center">
-      You might know me as FrnndSoul | 
+      You might know me as FrnndSoul OR Soul
 <br>  Rizal Technological University | Comp. Eng. Student
+<br>  Code » Coffee » Commit
 </h3>
-<br>
 <br>
 <h3 align="left">
 <h3 align="left">Connect with me:</h3>
