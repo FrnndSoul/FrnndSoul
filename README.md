@@ -1,6 +1,16 @@
 # 💫 About Me:
+<h1 align="center">
+  Hi 👋, I'm Saul, Fernand Emil
+</h1> 
+<br> 
+<h3 align="center">
+      You might know me as FrnndSoul | 
+<br>  Rizal Technological University | Comp. Eng. Student
+</h3>
+<br>
+<br>
+<h3 align="left">
 <h3 align="left">Connect with me:</h3>
-
 <ul style="list-style:none; padding:0; margin:0;">
   <li style="display:flex; align-items:center; gap:10px; margin:6px 0;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X/Twitter" width="24" height="24">
